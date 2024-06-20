@@ -1,0 +1,6 @@
+@Core8Postgresql_HostAddress = http://localhost:5091
+
+GET {{Core8Postgresql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
